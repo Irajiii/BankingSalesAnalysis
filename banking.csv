@@ -1,0 +1,301 @@
+ClientID,Name,Age,Location ID,Joined Bank,Banking Contact,Nationality,Occupation,Fee Structure,Loyalty Classification,Estimated Income,Superannuation Savings,Amount of Credit Cards,Credit Card Balance,Bank Loans,Bank Deposits,Checking Accounts,Saving Accounts,Foreign Currency Account,Business Lending,Properties Owned,Risk Weighting,BRId,GenderID,IAId
+C1000,Raymond Miller,18,L200,2025-07-20,947-547-9268x8538,Taiwan,"Programmer, multimedia",Standard,Platinum,196698,399307,3,15726,4,97514,0,0,Yes,44809,1,High,R1000,3,A116
+C1001,Penny Wolfe,19,L201,2007-12-19,(459)220-3920x588,Martinique,Technical author,Business,Platinum,138613,155502,0,2193,0,60593,1,0,Yes,38302,0,Low,R1001,3,A105
+C1002,James Reese,39,L202,2016-08-07,279-147-9092x8407,Paraguay,Network engineer,Student,Platinum,93921,208282,4,1984,1,64465,1,0,No,36952,2,Medium,R1002,2,A108
+C1003,Casey Brown,24,L203,2010-04-02,665.817.4772x29680,Tajikistan,"Pilot, airline",Standard,Gold,41538,254883,3,17158,3,48203,0,0,No,49755,0,Low,R1003,2,A116
+C1004,Melanie Wagner,60,L204,2013-10-25,+1-125-862-1787x2052,Bulgaria,Comptroller,Business,Platinum,25599,25904,0,17804,1,82351,0,1,Yes,7179,2,Low,R1004,2,A105
+C1005,Hannah Clarke,76,L205,2007-03-29,+1-065-051-7783x2544,Italy,"Conservation officer, historic buildings",Premium,Silver,119661,146781,4,8674,1,89681,1,0,Yes,45232,1,Low,R1005,3,A108
+C1006,Jonathan Lane,46,L206,2009-11-25,001-413-616-3403x8342,Northern Mariana Islands,"Conservation officer, historic buildings",Standard,Silver,119550,430653,1,2950,0,83369,1,0,No,28770,2,Low,R1006,2,A107
+C1007,Ashley Perez,52,L207,2023-01-09,(072)207-3536x7912,Guinea,Publishing copy,Standard,Platinum,33845,25448,3,10479,2,98946,1,1,Yes,29107,2,Medium,R1007,1,A113
+C1008,Eric Lee,62,L208,2010-10-26,795.120.5324x975,Swaziland,Glass blower/designer,Premium,Platinum,45647,78901,0,6410,2,82336,0,0,Yes,38206,2,High,R1008,1,A111
+C1009,Kathy Moore,18,L209,2015-03-17,7249953211,El Salvador,"Radiographer, therapeutic",Standard,Silver,103156,156117,0,13864,0,85805,0,1,No,35548,1,Low,R1009,1,A100
+C1010,Regina Strickland,32,L210,2018-07-27,+1-413-253-6512,Papua New Guinea,Multimedia specialist,Business,Gold,62855,406215,3,8640,1,56720,1,1,Yes,33354,2,Medium,R1010,1,A117
+C1011,Michelle Taylor,23,L211,2018-12-22,9369181505,Czech Republic,Teaching laboratory technician,Standard,Gold,136198,96560,0,2880,1,78320,1,0,No,27608,1,Low,R1011,1,A102
+C1012,Michele Ray,37,L212,2015-07-22,(595)202-9177x926,Luxembourg,Arts development officer,Student,Platinum,137878,134412,1,5733,4,82594,0,1,No,11645,2,Medium,R1012,3,A119
+C1013,Steven Morris,50,L213,2009-11-21,323-496-6718,Fiji,Maintenance engineer,Business,Bronze,110417,68884,1,5403,4,59814,0,0,Yes,15280,0,High,R1013,3,A106
+C1014,Crystal Hernandez,24,L214,2024-11-06,228.314.5344,Norfolk Island,Water quality scientist,Standard,Gold,191370,185362,3,8240,0,87608,1,0,No,16655,2,Low,R1014,3,A115
+C1015,Matthew Smith,72,L215,2017-05-22,(130)935-3088x73081,Maldives,"Conservator, museum/gallery",Business,Platinum,198362,15554,0,5340,3,18604,1,0,No,49934,0,Low,R1015,2,A119
+C1016,Harold Thompson,76,L216,2012-12-07,+1-695-142-5936x503,Holy See (Vatican City State),Armed forces technical officer,Student,Silver,93303,296879,4,4581,2,98341,1,0,Yes,32656,1,Medium,R1016,1,A102
+C1017,Ryan Reynolds,48,L217,2018-11-24,635.158.9158x89367,Heard Island and McDonald Islands,Quantity surveyor,Business,Gold,115295,469961,3,13691,0,14,1,1,No,13801,2,Medium,R1017,2,A119
+C1018,Monique Smith,25,L218,2012-03-11,001-320-373-2230x8345,Trinidad and Tobago,Senior tax professional/tax inspector,Business,Silver,94736,286008,2,9446,4,19616,0,1,Yes,45384,0,High,R1018,3,A108
+C1019,Marie Scott,63,L219,2023-11-04,(429)505-7657,Romania,"Administrator, arts",Standard,Silver,29568,192513,3,17238,2,55016,0,0,No,690,1,Low,R1019,3,A102
+C1020,Kevin Johnson,23,L220,2019-05-27,(660)340-5356x743,Nepal,Land,Business,Platinum,109750,430505,3,10963,3,28679,1,1,Yes,31571,0,Low,R1020,3,A104
+C1021,Thomas Le,61,L221,2006-01-13,(903)753-4556x03143,United Arab Emirates,Illustrator,Student,Platinum,56856,193361,3,18109,0,18080,1,0,No,49037,2,Low,R1021,1,A102
+C1022,Dillon Taylor,25,L222,2006-09-17,+1-361-269-6221x69178,British Virgin Islands,Insurance underwriter,Business,Gold,44379,475202,1,15045,3,13279,0,1,No,42494,2,Medium,R1022,3,A110
+C1023,Randy White,66,L223,2017-01-01,137-103-2291,Heard Island and McDonald Islands,Adult guidance worker,Student,Gold,77830,105531,2,5258,1,60912,0,0,Yes,48372,1,High,R1023,3,A104
+C1024,Gregory Buckley,32,L224,2024-08-11,1542199535,Pakistan,Sports coach,Premium,Gold,30489,482619,1,15333,2,21382,1,1,No,37650,1,Low,R1024,1,A117
+C1025,Ashley Jenkins,21,L225,2024-09-12,161-601-7683x3566,French Polynesia,Air cabin crew,Student,Gold,153604,21601,4,13131,2,31991,0,0,No,23633,2,Low,R1025,3,A101
+C1026,Brian Lewis Jr.,55,L226,2024-02-17,001-418-062-0022x0235,Falkland Islands (Malvinas),Chemical engineer,Student,Gold,25624,406950,3,7461,4,77167,0,1,No,36595,1,Medium,R1026,1,A102
+C1027,Katelyn Mccall,58,L227,2022-02-05,542.967.2880x90433,Western Sahara,Community education officer,Business,Platinum,197429,415076,2,7510,3,50306,1,1,No,16131,0,High,R1027,3,A101
+C1028,Marvin Vargas,71,L228,2014-10-19,190-415-4861x99095,Philippines,Regulatory affairs officer,Business,Platinum,25148,67292,1,6803,0,16412,0,0,Yes,9280,0,Low,R1028,2,A118
+C1029,Arthur Lee,33,L229,2017-11-26,5125226449,Latvia,Financial risk analyst,Standard,Silver,183751,386804,4,16869,2,17479,0,0,No,19862,1,Low,R1029,1,A109
+C1030,Andrew Rogers,78,L230,2012-03-13,(628)604-9177x394,Sao Tome and Principe,Animal technologist,Student,Silver,154671,393729,4,6302,2,85400,1,0,No,14948,2,Medium,R1030,3,A117
+C1031,Michael Ortiz,36,L231,2022-09-14,746.014.9247x959,Mozambique,Clinical molecular geneticist,Premium,Silver,62441,381065,1,10214,0,89886,1,0,Yes,45921,0,Medium,R1031,3,A108
+C1032,Brett Adkins,36,L232,2019-12-20,001-529-116-4939x893,Egypt,Scientific laboratory technician,Premium,Bronze,86721,485011,4,16156,3,64823,1,0,Yes,15665,1,Low,R1032,1,A105
+C1033,Anita Rodriguez,67,L233,2010-02-08,(980)813-6178x066,Cuba,Cartographer,Premium,Bronze,185454,442028,3,17223,1,86239,1,0,No,17648,2,Low,R1033,1,A114
+C1034,Robin Sims,25,L234,2008-12-09,848.192.8786x7513,Costa Rica,"Engineer, water",Student,Bronze,49918,376970,0,19112,1,25949,1,1,Yes,23656,0,High,R1034,1,A100
+C1035,Beverly Adams,37,L235,2009-12-02,(048)462-5551,Mozambique,Careers information officer,Premium,Gold,121780,170125,4,6585,3,20148,1,0,No,20664,1,Medium,R1035,3,A109
+C1036,Sean Flowers,56,L236,2007-11-08,+1-673-238-0501,United States Minor Outlying Islands,Museum education officer,Premium,Gold,166808,67089,4,15380,2,89294,0,0,Yes,45764,1,High,R1036,1,A111
+C1037,Kim Roach,18,L237,2019-02-08,(167)944-3424,Singapore,Corporate investment banker,Student,Platinum,44569,1976,2,90,2,72223,1,0,No,18443,1,Low,R1037,3,A103
+C1038,Amanda Doyle,20,L238,2008-05-08,757.557.2533,Montenegro,Site engineer,Business,Silver,83161,110775,3,6936,3,48915,1,1,Yes,43344,1,High,R1038,2,A108
+C1039,Dylan Torres,64,L239,2022-10-02,991-282-3647,Gibraltar,"Teacher, adult education",Premium,Gold,144362,113702,0,10931,0,34954,0,1,No,20334,0,High,R1039,2,A100
+C1040,Sarah Moreno,73,L240,2013-10-15,327.475.9220x0824,Angola,Risk analyst,Student,Bronze,131921,165882,4,15936,3,48442,1,1,Yes,3532,1,Low,R1040,3,A105
+C1041,Monica Wall,42,L241,2019-01-29,(205)438-7471x761,Saint Barthelemy,Financial controller,Student,Silver,43365,453956,2,10995,1,13778,0,1,No,29798,2,Low,R1041,1,A113
+C1042,Christina Vaughn,18,L242,2007-07-27,(971)736-2713,Swaziland,Charity officer,Business,Gold,99088,72601,1,488,3,55887,1,0,No,16801,2,High,R1042,1,A112
+C1043,Christy Henry,41,L243,2015-05-13,001-504-885-7411,South Africa,Web designer,Student,Silver,159530,156051,2,8508,2,70543,1,1,Yes,49437,0,High,R1043,2,A115
+C1044,Tiffany Morales,75,L244,2012-05-19,895-979-0967,Mozambique,"Therapist, occupational",Premium,Gold,104959,11635,2,9925,3,45777,0,0,Yes,25855,1,High,R1044,2,A114
+C1045,Andrew Tucker,43,L245,2005-12-22,+1-955-740-5644,Nigeria,Hospital pharmacist,Student,Bronze,40307,430297,2,11005,0,48855,0,1,No,30713,0,High,R1045,3,A109
+C1046,Dr. Leslie Baker,21,L246,2010-02-18,+1-224-870-1701x67230,Mayotte,Recycling officer,Premium,Gold,116846,154738,2,15434,0,61200,0,1,No,24996,2,High,R1046,1,A102
+C1047,John Perez,36,L247,2011-01-13,927.581.0526,Finland,Printmaker,Standard,Platinum,188563,311068,4,4468,1,79875,1,1,No,22906,2,Medium,R1047,3,A104
+C1048,David Nichols,61,L248,2005-12-15,001-705-491-6336x75977,Hungary,Armed forces training and education officer,Business,Silver,181149,3225,4,11569,2,36763,0,1,Yes,31957,0,Low,R1048,2,A103
+C1049,Jessica Lewis,41,L249,2014-07-07,585-140-2307,Brunei Darussalam,"Designer, exhibition/display",Student,Silver,51974,276440,2,15446,2,3627,0,0,No,12681,0,High,R1049,1,A110
+C1050,Lindsay Shannon,70,L250,2006-04-21,+1-180-741-9827x165,Gambia,Bonds trader,Business,Platinum,57741,415435,1,13334,0,68237,1,1,Yes,18143,2,Low,R1050,1,A103
+C1051,Timothy Payne,39,L251,2008-08-17,6610136504,Northern Mariana Islands,Oncologist,Premium,Silver,95864,327342,2,18725,0,59849,0,0,No,20419,1,High,R1051,2,A113
+C1052,Kathleen Palmer,19,L252,2008-01-27,(499)787-6483,Cayman Islands,Operations geologist,Premium,Platinum,42000,209834,4,19412,4,74800,0,0,No,48357,2,Medium,R1052,3,A103
+C1053,Amanda Smith,46,L253,2017-03-07,659.214.2218x6994,Tajikistan,Financial trader,Business,Bronze,115283,51400,2,16308,4,87220,1,1,Yes,27737,2,High,R1053,3,A110
+C1054,Natalie Cooley,69,L254,2014-04-17,587.753.2016,Israel,Architectural technologist,Student,Gold,179022,265182,2,19221,3,68418,0,1,No,29130,2,Low,R1054,1,A110
+C1055,Austin Young,19,L255,2023-08-25,059-598-7119x94964,Venezuela,Planning and development surveyor,Premium,Gold,92974,164963,3,11606,0,43373,0,1,Yes,18876,0,Medium,R1055,1,A119
+C1056,James Lewis,49,L256,2023-05-15,4873297888,Equatorial Guinea,Bookseller,Standard,Silver,160644,300586,3,18075,0,47275,1,0,No,34131,0,Low,R1056,1,A108
+C1057,Tracy Rivers,61,L257,2016-08-10,660-702-2585x632,Namibia,"Editor, commissioning",Business,Silver,76612,39286,4,6004,1,99391,0,0,No,31015,0,Medium,R1057,1,A101
+C1058,Jennifer Anderson,40,L258,2020-03-22,383-264-0265x8163,Canada,Accounting technician,Premium,Bronze,130711,467234,0,9238,0,72103,1,1,Yes,32498,0,Low,R1058,3,A105
+C1059,John Martin,71,L259,2022-01-10,497.470.6238x248,United States of America,"Scientist, product/process development",Student,Gold,152108,114153,1,5028,4,19771,0,1,No,10122,2,High,R1059,3,A107
+C1060,Christopher Guerra,21,L260,2011-01-18,350-153-1331x647,Afghanistan,"Geologist, wellsite",Business,Silver,182186,209684,0,570,0,98585,1,0,No,20433,0,Medium,R1060,3,A106
+C1061,Isaac Nguyen,49,L261,2007-07-16,054.686.7491,Bulgaria,Training and development officer,Business,Gold,57034,329673,4,429,1,22298,1,0,No,38319,1,High,R1061,3,A112
+C1062,Rhonda Miller,44,L262,2019-04-17,388.519.7711,Cyprus,Community development worker,Student,Silver,136410,493738,1,15835,3,87142,1,1,Yes,6636,1,High,R1062,2,A100
+C1063,Marcus Barnes,40,L263,2024-01-08,001-908-056-7811x7514,Latvia,Clinical embryologist,Standard,Gold,173939,323422,0,9769,0,56140,0,1,Yes,16301,1,High,R1063,3,A113
+C1064,Lisa Hernandez,34,L264,2010-05-10,413-518-3088,Cambodia,Waste management officer,Premium,Platinum,93354,397284,4,16443,2,73614,1,1,No,23376,1,Low,R1064,2,A116
+C1065,Michael Young,48,L265,2007-10-02,(468)956-0345x86864,Afghanistan,Biomedical scientist,Standard,Platinum,50795,34597,4,7064,4,466,1,0,No,30196,1,Medium,R1065,1,A106
+C1066,Amanda Morgan,36,L266,2020-11-04,385.837.3133,Lebanon,Furniture designer,Business,Gold,120024,237675,3,16535,1,49695,1,0,Yes,30907,0,Medium,R1066,1,A113
+C1067,Karla Mcdonald,76,L267,2019-09-06,001-000-749-6771x9332,Djibouti,Research scientist (maths),Student,Platinum,172354,414684,1,17285,4,25649,0,0,No,20956,0,Low,R1067,2,A113
+C1068,Zachary Atkinson,35,L268,2020-03-01,106-771-6500,Aruba,Chief Financial Officer,Premium,Silver,71738,405599,4,1877,1,16639,0,1,No,1865,0,Low,R1068,3,A112
+C1069,Lisa Arnold,22,L269,2006-01-25,836.713.7825x902,Ireland,Clinical biochemist,Student,Gold,69133,490373,1,6660,0,64773,1,1,No,9566,0,Low,R1069,1,A117
+C1070,Barbara Perez,35,L270,2009-03-11,(714)306-3637x81649,Belarus,Armed forces training and education officer,Student,Silver,142280,459374,1,5023,1,42533,1,1,Yes,36740,0,Medium,R1070,3,A100
+C1071,Heather Brown,25,L271,2011-08-01,076.573.6636,United States Virgin Islands,Environmental consultant,Premium,Bronze,172479,49227,1,1649,0,6743,0,0,Yes,28879,1,High,R1071,1,A119
+C1072,Kathryn Lowe,45,L272,2017-05-06,(201)231-0514x80355,Botswana,"Programme researcher, broadcasting/film/video",Business,Gold,124766,169784,3,3421,4,39887,0,0,No,44839,1,Medium,R1072,3,A118
+C1073,Daniel Nelson,56,L273,2016-11-25,(007)925-4681x200,French Guiana,Financial risk analyst,Premium,Silver,112034,77234,4,6505,0,83546,1,0,No,44771,2,Medium,R1073,2,A118
+C1074,James Davis,41,L274,2013-03-06,001-973-438-1424,Zambia,Careers information officer,Standard,Platinum,149417,234416,2,11836,1,52592,0,0,No,2627,2,High,R1074,2,A116
+C1075,Danielle Walters,78,L275,2009-07-05,001-857-546-3337x75508,Rwanda,Medical physicist,Premium,Bronze,115219,308039,4,2011,3,74507,0,0,No,45943,0,Medium,R1075,2,A116
+C1076,Kim Salazar MD,47,L276,2007-02-18,(307)367-8372x546,Sierra Leone,"Engineer, energy",Business,Platinum,61799,40474,2,18227,2,71951,0,0,Yes,32912,2,Low,R1076,3,A118
+C1077,Gregory Friedman,50,L277,2016-12-24,+1-899-479-9194x562,Mali,Records manager,Standard,Platinum,101294,129917,2,569,3,59825,0,0,No,14514,0,Medium,R1077,3,A104
+C1078,Carol Rivera,79,L278,2024-02-28,4353595521,United States Minor Outlying Islands,"Designer, jewellery",Student,Bronze,190064,476775,2,4997,4,61785,1,1,Yes,12777,2,Low,R1078,2,A101
+C1079,Sarah Wilson,56,L279,2010-09-05,182-557-6298,Malaysia,Press sub,Student,Platinum,162139,36737,0,6909,1,5802,0,0,Yes,25406,1,Medium,R1079,1,A119
+C1080,Jill Morales,51,L280,2025-03-01,001-236-443-9913x20590,Japan,Water engineer,Standard,Platinum,185314,350895,0,2249,1,50582,1,0,No,29973,0,Medium,R1080,1,A116
+C1081,Jodi Chan,45,L281,2013-03-29,(117)504-3466,Serbia,Field trials officer,Premium,Platinum,166711,399346,2,12473,4,30997,0,1,No,17279,1,High,R1081,2,A114
+C1082,Monica Smith,18,L282,2016-02-14,223.951.9301x916,Belarus,"Engineer, structural",Business,Silver,62044,304292,4,10302,4,82495,0,0,No,28599,2,Low,R1082,1,A100
+C1083,Christopher Snyder,20,L283,2014-09-24,3775561672,Egypt,Equality and diversity officer,Student,Platinum,38947,417476,0,5454,3,57257,1,0,Yes,34100,1,High,R1083,2,A102
+C1084,Elizabeth Stafford,60,L284,2005-12-26,113-811-4349x09237,Colombia,"Engineer, technical sales",Student,Gold,93348,128755,3,1471,4,68244,0,0,Yes,6096,1,Medium,R1084,3,A108
+C1085,Jennifer Manning,36,L285,2025-02-09,(059)774-3472,Seychelles,"Radiographer, therapeutic",Business,Silver,71162,178841,4,12552,1,67625,1,1,Yes,28302,2,Medium,R1085,1,A114
+C1086,John Walker,77,L286,2012-06-01,460.191.5706,Canada,Civil Service fast streamer,Business,Gold,26610,238465,3,15163,3,52772,0,1,Yes,28370,2,Low,R1086,3,A109
+C1087,Melissa Patel,26,L287,2010-09-10,2235434148,Saint Kitts and Nevis,Market researcher,Business,Bronze,98822,404146,0,8442,4,50612,0,0,No,44595,1,Medium,R1087,2,A110
+C1088,Timothy Johnson,41,L288,2022-03-01,5294441207,Comoros,"Research officer, government",Student,Silver,69533,256311,3,11154,1,31462,0,0,No,4855,0,Medium,R1088,1,A111
+C1089,James Taylor,21,L289,2023-12-10,001-745-374-7959x89117,Turkey,"Engineer, petroleum",Business,Platinum,147463,186757,3,14616,3,45731,0,1,Yes,20724,1,Low,R1089,1,A106
+C1090,Justin Esparza,52,L290,2024-01-21,9719768271,Gabon,Television/film/video producer,Business,Platinum,68302,32519,1,16974,2,17916,1,1,No,43841,2,High,R1090,2,A107
+C1091,Sean Ruiz,76,L291,2019-10-05,410-130-2507x5819,Canada,"Administrator, arts",Premium,Platinum,31124,146279,0,3279,1,72564,0,1,Yes,32122,2,Medium,R1091,1,A101
+C1092,Logan Barnett,32,L292,2008-05-26,+1-875-553-5177x4850,Moldova,Firefighter,Student,Gold,175526,208967,1,3741,4,51810,0,1,No,43752,1,Medium,R1092,3,A105
+C1093,John Lopez,34,L293,2010-01-07,(575)995-7548,Cyprus,Homeopath,Business,Silver,79025,495671,1,10170,0,72486,0,1,No,6643,2,Medium,R1093,2,A118
+C1094,Elizabeth Reilly,62,L294,2012-12-29,(143)738-4912x5754,South Georgia and the South Sandwich Islands,Statistician,Business,Platinum,126139,363094,3,19775,0,87944,1,1,No,24972,0,Medium,R1094,3,A112
+C1095,Jerry Reynolds,33,L295,2022-10-30,7588566346,Comoros,Technical brewer,Student,Gold,26618,403157,2,6501,0,40194,0,1,Yes,33873,2,Medium,R1095,1,A109
+C1096,David Herring,42,L296,2014-06-16,001-421-326-1708,Fiji,Company secretary,Business,Gold,119266,396354,4,6192,3,91267,1,1,Yes,1470,2,High,R1096,2,A101
+C1097,Jennifer Jones,46,L297,2015-07-17,(076)692-4890,Finland,Ship broker,Student,Bronze,130367,244503,3,112,0,55645,1,1,Yes,24036,0,Medium,R1097,1,A106
+C1098,Joshua Thomas,33,L298,2015-02-04,736.626.0039,Zimbabwe,"Surveyor, hydrographic",Business,Bronze,181328,331776,1,1056,3,24355,0,0,No,19794,0,Low,R1098,2,A110
+C1099,Matthew Strong,19,L299,2019-03-19,554.928.3849x964,Saint Lucia,Hospital pharmacist,Student,Bronze,145691,93709,1,2966,2,38056,0,1,Yes,16859,0,Medium,R1099,2,A117
+C1100,Mark Smith,71,L300,2025-02-23,292-670-2747x8198,Cote d'Ivoire,Intelligence analyst,Standard,Platinum,143075,35388,4,5577,3,95398,1,1,Yes,30756,2,High,R1100,2,A110
+C1101,Joel Maldonado,28,L301,2008-08-03,2181583889,Dominican Republic,"Engineer, manufacturing systems",Student,Bronze,147265,362550,3,6974,4,95050,0,0,No,36990,0,Medium,R1101,3,A110
+C1102,Justin Cook,69,L302,2018-10-06,(396)397-1843x67375,Reunion,Public relations account executive,Business,Silver,116169,51082,1,7574,2,84066,1,1,No,41112,2,Medium,R1102,3,A104
+C1103,Jesse Roberts,77,L303,2005-12-20,041-523-5320,Iran,Armed forces technical officer,Standard,Bronze,169065,386687,2,9667,1,14142,0,1,No,40674,2,High,R1103,3,A105
+C1104,Christine Heath,55,L304,2024-10-03,+1-597-053-2462x3961,United Kingdom,Theatre stage manager,Business,Gold,76054,391935,0,18704,1,11096,1,0,Yes,38789,2,Low,R1104,2,A109
+C1105,Michael Fields,33,L305,2022-04-10,+1-043-726-1640x96961,Poland,Comptroller,Premium,Platinum,164132,177835,1,1438,2,61424,0,1,No,28095,1,High,R1105,3,A108
+C1106,Brad Lucas,48,L306,2023-04-07,409.694.6990,Tokelau,"Designer, exhibition/display",Standard,Silver,177496,459160,4,1140,0,41483,0,1,No,48020,1,High,R1106,2,A102
+C1107,Teresa Robbins,19,L307,2021-07-20,020.758.2565x315,Comoros,Risk analyst,Business,Platinum,136934,457550,1,7301,2,86314,1,0,Yes,9013,1,Medium,R1107,2,A117
+C1108,Michelle Clarke,61,L308,2021-08-27,699.159.2298,Holy See (Vatican City State),"Surveyor, rural practice",Student,Silver,189742,108057,2,8713,2,82301,0,0,No,42464,1,High,R1108,2,A104
+C1109,Rick Baker,25,L309,2020-04-08,229-583-7257x789,Benin,Primary school teacher,Business,Bronze,122244,225104,2,6084,0,3218,0,0,Yes,7451,0,High,R1109,2,A115
+C1110,Nicole Parsons,21,L310,2021-03-20,8814388385,Cameroon,Mental health nurse,Standard,Gold,128444,170841,4,12014,4,18747,1,0,No,35809,2,High,R1110,1,A101
+C1111,Anna Watts,33,L311,2012-07-29,2445119780,Saint Helena,Veterinary surgeon,Premium,Silver,91970,124815,3,7802,1,77936,0,1,No,36307,2,Low,R1111,3,A108
+C1112,George Stokes,25,L312,2006-11-05,738-177-5331x811,Canada,Freight forwarder,Standard,Gold,143942,424283,3,5911,3,46815,1,0,No,36581,0,Medium,R1112,2,A105
+C1113,Jose Alvarado,78,L313,2013-06-07,914.251.4230,Bhutan,Chartered public finance accountant,Business,Gold,56246,337667,2,8813,1,28604,0,1,No,12594,0,Medium,R1113,1,A119
+C1114,Sandra Long,32,L314,2022-11-12,001-530-015-8973x075,French Southern Territories,Information systems manager,Student,Bronze,183635,123142,1,7834,4,46608,1,1,No,49412,0,Low,R1114,3,A111
+C1115,Jonathan Allen,60,L315,2008-02-21,771-814-1413,Brazil,"Engineer, building services",Standard,Bronze,38648,353991,3,16151,3,23423,0,0,No,1988,2,Low,R1115,3,A119
+C1116,Brenda Moran,25,L316,2007-05-12,+1-332-443-8283x77046,Trinidad and Tobago,Forensic scientist,Business,Platinum,169208,1811,1,15164,4,94000,1,1,Yes,27485,0,Low,R1116,2,A105
+C1117,Kelly Williams,69,L317,2012-09-10,+1-909-580-9456x0941,Turkey,"Chemist, analytical",Business,Bronze,117860,344813,3,18220,3,17539,0,1,No,10821,1,High,R1117,3,A110
+C1118,Chad Fletcher,20,L318,2014-03-28,001-833-151-3724x809,Belize,Warehouse manager,Business,Bronze,46117,249604,4,6417,1,60818,1,0,Yes,36352,1,Medium,R1118,3,A101
+C1119,Beth Baker,22,L319,2018-08-16,001-475-881-2188,Kiribati,Chartered certified accountant,Business,Gold,36353,314224,1,8593,1,99573,0,1,No,635,0,High,R1119,3,A116
+C1120,Marissa Levine,20,L320,2011-02-20,7309179297,Guyana,Futures trader,Standard,Bronze,86907,191892,4,4984,1,86882,1,1,No,18654,0,Low,R1120,1,A117
+C1121,Lisa Snyder,73,L321,2014-12-20,(288)277-7140,Poland,Special educational needs teacher,Premium,Gold,161368,193722,0,3219,1,25920,0,1,No,20627,1,High,R1121,3,A112
+C1122,Sherry Horn,59,L322,2020-11-12,326-418-6162,Hong Kong,"Development worker, international aid",Student,Platinum,157759,22054,2,16222,2,15809,1,1,Yes,939,1,High,R1122,3,A107
+C1123,Amy Brown,46,L323,2013-05-11,047-331-3669,Thailand,Best boy,Student,Platinum,124876,231757,1,15575,4,52544,1,0,Yes,19215,1,Low,R1123,1,A101
+C1124,Lisa Schneider,58,L324,2013-11-23,+1-392-771-2749x648,France,Building surveyor,Premium,Bronze,135942,19458,0,9661,4,42265,0,1,Yes,49400,0,High,R1124,2,A106
+C1125,Samuel Valenzuela,46,L325,2015-06-14,(169)576-7887x7632,United States Minor Outlying Islands,Industrial buyer,Premium,Gold,54801,180830,4,18088,0,61788,1,1,No,40194,0,High,R1125,2,A115
+C1126,Brett Martinez,47,L326,2020-12-07,(050)326-8120,Nicaragua,Orthoptist,Standard,Gold,53462,67694,4,16619,4,30128,1,1,No,44696,1,High,R1126,3,A109
+C1127,Maria Jenkins,33,L327,2019-02-10,+1-798-718-1638x6473,Vietnam,Building control surveyor,Standard,Silver,155117,221968,0,18611,4,32054,0,0,Yes,40145,2,Medium,R1127,2,A115
+C1128,Raymond Pollard,59,L328,2012-01-30,3809187469,American Samoa,Advice worker,Business,Gold,172530,99900,4,11406,0,69211,0,0,Yes,40962,2,High,R1128,1,A102
+C1129,Brent Church,41,L329,2025-06-01,+1-959-927-9952,Guinea,"Psychologist, occupational",Business,Silver,54837,178727,1,13112,1,52529,0,1,Yes,27705,2,Medium,R1129,3,A107
+C1130,Heather Page,57,L330,2011-02-06,968.363.6481x6320,Nigeria,"Engineer, electronics",Business,Platinum,63915,31084,3,19782,1,76152,0,0,Yes,38229,1,Low,R1130,2,A100
+C1131,Timothy Thornton,60,L331,2005-09-12,+1-712-010-0974,Netherlands Antilles,Pensions consultant,Standard,Bronze,195362,377100,0,16997,4,50250,0,1,Yes,36840,0,Low,R1131,2,A100
+C1132,Jerry Farrell,78,L332,2024-09-29,823-337-1903,Kiribati,Games developer,Standard,Platinum,110666,426667,0,9569,2,73508,0,1,Yes,46414,2,High,R1132,2,A119
+C1133,Jennifer Chang,63,L333,2009-12-23,001-829-121-3408x948,Holy See (Vatican City State),IT consultant,Premium,Silver,106406,408862,3,7106,4,14749,1,0,No,14539,2,High,R1133,3,A116
+C1134,Erin Jackson,45,L334,2015-03-29,544-649-1285x450,Eritrea,Legal secretary,Standard,Silver,128664,472690,4,12493,4,15815,1,0,No,32658,2,High,R1134,3,A115
+C1135,Katherine Baker,50,L335,2017-05-20,0427818785,Iraq,"Conservation officer, nature",Standard,Bronze,157638,184886,0,4728,4,48354,1,0,No,5153,2,High,R1135,3,A117
+C1136,Russell Osborne,72,L336,2005-12-24,9836092778,Chile,Quality manager,Standard,Silver,27486,289899,2,16899,2,61461,1,1,No,33060,1,Low,R1136,1,A109
+C1137,Maria Petersen,35,L337,2007-11-18,126.360.6709,Netherlands,Media buyer,Business,Bronze,33034,50575,3,8786,4,68978,1,1,Yes,33046,1,Medium,R1137,1,A101
+C1138,Michael Mullen,33,L338,2020-09-03,297.925.9495,Gabon,"Pharmacist, community",Business,Silver,25695,319295,1,17610,2,33876,1,1,No,43340,0,Medium,R1138,1,A107
+C1139,Shawn Ortega,47,L339,2016-09-24,001-469-560-2791x533,Nepal,Midwife,Premium,Silver,68853,14605,4,10971,3,18132,1,0,No,25567,2,Low,R1139,3,A107
+C1140,Angela Whitney,51,L340,2021-10-16,372.538.2007x0950,Palestinian Territory,"Secretary, company",Premium,Gold,94456,20864,0,693,1,46570,1,0,Yes,11660,2,Medium,R1140,1,A106
+C1141,Dean Morrow,30,L341,2023-11-24,795.543.8234,Northern Mariana Islands,Town planner,Standard,Gold,107337,88189,2,14621,3,50677,1,1,Yes,49077,1,High,R1141,2,A112
+C1142,Gabriela Lewis,51,L342,2016-06-16,264.558.5822x048,Lebanon,"Therapist, speech and language",Student,Gold,168790,105300,0,14761,0,27920,1,0,Yes,42901,0,Medium,R1142,3,A116
+C1143,Kaitlyn Williams,59,L343,2009-05-15,338.406.5700,Belize,"Scientist, physiological",Standard,Bronze,135134,289660,0,10212,0,82947,1,0,No,13000,2,Low,R1143,2,A101
+C1144,Lori Moss,39,L344,2012-01-14,(037)539-1171,Korea,Database administrator,Premium,Bronze,158554,111436,2,10100,4,19967,0,0,No,49600,1,Low,R1144,3,A102
+C1145,Samantha Thomas,63,L345,2009-01-16,793-572-4865,Hungary,Research scientist (life sciences),Business,Platinum,79497,289333,4,11662,4,90466,0,0,No,42802,0,Medium,R1145,3,A118
+C1146,Courtney Schultz,47,L346,2008-11-08,(078)043-2611x49266,Panama,Armed forces logistics/support/administrative officer,Premium,Platinum,192055,46905,4,938,4,12387,1,1,No,15621,0,Low,R1146,1,A115
+C1147,Thomas Valentine,74,L347,2014-04-02,7000102082,Reunion,Software engineer,Standard,Bronze,143799,302263,1,17370,0,60485,0,1,Yes,2200,1,Low,R1147,2,A113
+C1148,Brian Sharp,25,L348,2007-01-12,+1-492-539-1509x3100,Martinique,Musician,Standard,Gold,142108,3446,4,16429,4,24894,1,0,Yes,37378,2,Medium,R1148,1,A111
+C1149,William Davidson,34,L349,2018-11-10,658.177.0859,Spain,Personnel officer,Business,Platinum,34131,139175,4,8153,1,27942,0,1,No,11932,2,High,R1149,1,A100
+C1150,Sabrina Barnes,53,L350,2025-08-15,492.051.3494x3875,Barbados,Financial trader,Standard,Bronze,78253,481768,2,15769,4,78726,0,1,No,25501,1,Medium,R1150,3,A117
+C1151,Audrey Williams,27,L351,2018-01-23,2879933958,Spain,Research scientist (medical),Standard,Gold,147315,82589,0,5693,2,99562,1,0,No,12998,1,Low,R1151,1,A109
+C1152,Robert Flores,67,L352,2023-12-18,274.225.5766x004,Bangladesh,Restaurant manager,Student,Platinum,53695,482104,0,17704,3,3690,1,1,No,45066,2,High,R1152,3,A108
+C1153,Patrick Wallace,77,L353,2016-03-20,+1-819-985-6877,Bangladesh,"Editor, film/video",Student,Gold,95726,98332,0,18135,2,72098,1,0,No,31556,2,High,R1153,2,A108
+C1154,Sandra Stafford,59,L354,2016-09-08,001-108-352-9044x52594,Saint Helena,Operational investment banker,Business,Platinum,178070,405383,0,15901,1,29400,1,1,Yes,2398,0,High,R1154,3,A115
+C1155,Crystal Gentry,51,L355,2020-10-13,+1-037-235-1940x80841,Equatorial Guinea,Amenity horticulturist,Standard,Silver,188492,187487,3,12653,1,41093,1,1,Yes,37242,0,High,R1155,2,A114
+C1156,Laura Hernandez,71,L356,2009-11-07,+1-078-164-1406x843,Suriname,Surgeon,Business,Gold,78438,39251,2,1386,1,56819,0,0,Yes,37306,1,High,R1156,3,A106
+C1157,Megan Thornton,79,L357,2010-11-23,001-093-352-0174x2082,Greece,Scientific laboratory technician,Standard,Silver,103504,492122,2,9906,0,5574,1,1,Yes,23960,0,High,R1157,1,A112
+C1158,Colleen Thompson,36,L358,2011-11-20,2309684190,Chile,"Teacher, secondary school",Business,Silver,75444,258545,4,4267,1,29148,1,0,Yes,20406,1,High,R1158,1,A100
+C1159,Sharon Hammond,69,L359,2021-01-06,+1-162-499-1353x5950,Tuvalu,"Librarian, public",Standard,Bronze,118195,294029,3,2697,3,8459,0,0,Yes,37834,0,High,R1159,2,A115
+C1160,Dawn Mills,70,L360,2018-01-01,714.510.5929x9645,Greenland,Broadcast presenter,Premium,Silver,128737,439149,0,14835,1,19759,0,0,Yes,43200,0,Medium,R1160,2,A104
+C1161,Rodney Horton,42,L361,2012-04-19,098.427.1578x697,Afghanistan,Ship broker,Student,Gold,197653,267407,4,4054,1,60437,0,1,Yes,23100,2,High,R1161,1,A111
+C1162,Julie Clark,21,L362,2018-08-12,604-734-6482x069,Singapore,Information officer,Standard,Gold,84909,198677,4,10650,2,53829,1,1,No,43173,1,High,R1162,2,A106
+C1163,Richard Henderson,32,L363,2006-12-12,643-868-1206,Sao Tome and Principe,Information systems manager,Student,Platinum,189429,104099,3,3956,4,46751,0,1,No,21450,0,High,R1163,1,A114
+C1164,Jasmin Salazar,69,L364,2019-11-24,(300)083-7233x32798,Pakistan,Counsellor,Business,Silver,113026,117354,3,11326,2,38242,1,0,Yes,6054,0,Low,R1164,2,A115
+C1165,Brad Bates,60,L365,2017-08-16,5682652349,Togo,Advertising art director,Premium,Bronze,141953,1617,2,3490,3,10210,1,0,No,19053,1,Low,R1165,1,A111
+C1166,Leonard Berger,27,L366,2011-11-30,8809267198,Seychelles,Chartered public finance accountant,Student,Platinum,81123,188563,3,13443,2,98857,0,1,Yes,128,1,High,R1166,1,A107
+C1167,Scott Ryan,76,L367,2015-05-22,532.134.6638,Guatemala,Orthoptist,Student,Gold,78736,266303,2,7742,3,79061,0,1,Yes,23893,0,Low,R1167,2,A104
+C1168,Christopher Williams,19,L368,2023-10-17,001-667-831-2639,Greece,Bonds trader,Standard,Gold,179420,1015,0,12609,4,67571,1,1,Yes,38083,2,High,R1168,2,A110
+C1169,Angela Johnson,63,L369,2015-03-27,+1-242-710-3334,Grenada,Town planner,Business,Platinum,53672,223751,2,5214,0,54470,1,1,Yes,20675,2,High,R1169,3,A104
+C1170,Jeffrey Collier,39,L370,2018-03-23,+1-053-352-4437x70593,Guatemala,Risk analyst,Standard,Gold,54882,387010,0,19664,1,69704,1,1,No,49425,1,Medium,R1170,1,A100
+C1171,Mark Jordan,38,L371,2009-05-27,001-541-679-9999x0115,Cuba,Tax inspector,Business,Bronze,175357,388977,2,11534,4,79937,0,1,No,15562,0,High,R1171,3,A108
+C1172,Andrew Murphy,31,L372,2015-11-27,555-519-7561x86313,Philippines,"Engineer, materials",Premium,Bronze,120770,461988,1,12064,0,38364,0,0,No,7716,0,Medium,R1172,3,A119
+C1173,James Costa DDS,79,L373,2025-08-03,3112401412,Austria,Exhibition designer,Business,Platinum,120262,390698,2,16005,0,25639,1,1,Yes,5023,2,High,R1173,3,A112
+C1174,Mary Martinez,32,L374,2017-05-16,001-148-098-0730,Netherlands,Land/geomatics surveyor,Business,Gold,43089,497553,0,18488,3,75440,0,0,No,18564,2,Low,R1174,2,A116
+C1175,Ashley Sparks,56,L375,2015-05-01,304.341.8616x2798,Lithuania,Charity officer,Business,Platinum,55109,24560,3,7577,4,42994,1,0,No,32202,0,Medium,R1175,2,A115
+C1176,Robert Moore,20,L376,2006-11-20,250-797-6280x543,French Polynesia,"Engineer, aeronautical",Premium,Silver,97020,409908,4,5875,4,65,1,1,Yes,49773,0,High,R1176,1,A108
+C1177,Brooke Gardner,40,L377,2015-11-29,2687711263,Puerto Rico,"Therapist, speech and language",Premium,Silver,56524,113918,4,792,2,45448,0,1,No,30644,2,High,R1177,1,A119
+C1178,Greg Brewer,47,L378,2011-04-22,(590)505-7553x81983,Norfolk Island,Operational researcher,Business,Bronze,109885,255385,2,4951,4,29278,0,0,No,45629,0,Low,R1178,3,A106
+C1179,Shaun Figueroa,26,L379,2024-11-06,424.887.3068,Montenegro,Fitness centre manager,Student,Bronze,169527,356204,1,8822,4,25769,1,0,Yes,48501,0,Low,R1179,3,A117
+C1180,Jill Parks,21,L380,2010-05-21,+1-260-562-1176x07813,Korea,Youth worker,Student,Silver,109477,86089,1,87,2,98435,1,0,Yes,4843,1,Medium,R1180,1,A101
+C1181,Annette Frye,78,L381,2014-04-24,001-117-143-6137x55438,Jersey,Lobbyist,Standard,Gold,95313,217549,2,5783,1,16943,1,1,Yes,22669,1,High,R1181,2,A117
+C1182,Andres Green,44,L382,2017-04-21,172.139.6997x7546,Tokelau,"Presenter, broadcasting",Business,Platinum,188566,308649,2,5180,2,16818,0,1,Yes,39348,2,Medium,R1182,3,A114
+C1183,Robert Morris,32,L383,2006-06-04,444-573-5859,United States Minor Outlying Islands,Educational psychologist,Premium,Gold,115007,100536,1,8072,0,37978,1,1,No,7696,0,Medium,R1183,2,A109
+C1184,William Cordova,59,L384,2021-08-12,935.240.3512x7332,Cyprus,Ophthalmologist,Student,Bronze,188314,493598,0,4843,0,61930,1,0,No,42843,2,Low,R1184,2,A105
+C1185,Robert Christian,27,L385,2007-02-11,+1-450-222-6016x66047,Denmark,"Research officer, government",Standard,Gold,108267,315535,1,2027,0,5817,0,0,No,43623,2,Medium,R1185,2,A108
+C1186,Jason Smith,44,L386,2007-01-08,001-168-342-0256,Northern Mariana Islands,"Engineer, water",Business,Bronze,157899,102937,2,597,0,3297,0,0,Yes,33460,0,Medium,R1186,2,A103
+C1187,Jillian Johnson DDS,36,L387,2020-08-16,001-693-297-9545x1346,San Marino,"Civil engineer, contracting",Business,Bronze,95255,84790,1,3782,4,97759,1,1,Yes,44950,1,High,R1187,2,A115
+C1188,Catherine Steele,78,L388,2010-04-27,+1-363-652-7094x64799,Mozambique,Educational psychologist,Premium,Gold,198643,112614,4,15243,1,59055,1,1,No,38996,0,High,R1188,1,A107
+C1189,Dawn Martinez,56,L389,2008-10-10,7644079490,Saint Vincent and the Grenadines,"Scientist, water quality",Standard,Platinum,91924,119288,4,13931,1,50004,1,0,Yes,10124,2,Low,R1189,1,A107
+C1190,Audrey Hicks,19,L390,2013-02-27,5917129799,Guam,"Investment banker, operational",Standard,Platinum,67602,471010,3,16668,2,3851,1,1,Yes,34824,2,Medium,R1190,1,A103
+C1191,Sharon Clark,28,L391,2019-06-26,6998858367,Switzerland,"Therapist, drama",Business,Gold,91100,384731,0,9921,2,1959,1,0,Yes,6751,0,Low,R1191,1,A103
+C1192,Alicia Jones,70,L392,2021-12-28,+1-819-352-5920x3008,Germany,Farm manager,Student,Bronze,97558,265337,2,17251,2,20520,1,1,Yes,3630,2,Low,R1192,3,A106
+C1193,Terri Ray,76,L393,2011-05-28,001-635-943-5656x2081,Costa Rica,"Engineer, energy",Premium,Platinum,150442,497060,4,15258,4,71645,1,1,No,8158,1,Medium,R1193,2,A113
+C1194,Jacqueline Salazar,43,L394,2019-05-16,487-935-3844x0947,Guinea-Bissau,Recycling officer,Standard,Gold,195271,230237,3,7571,0,38769,1,1,Yes,24614,2,Medium,R1194,2,A119
+C1195,Carla Haynes,50,L395,2017-06-26,001-365-726-0624x87009,Equatorial Guinea,"Loss adjuster, chartered",Student,Silver,177431,371290,0,16351,4,71763,0,0,Yes,10155,1,Low,R1195,2,A107
+C1196,Beverly Johnson,70,L396,2020-06-22,520-041-4455,Saint Helena,"Scientist, research (maths)",Premium,Bronze,159650,201275,3,16749,1,83684,0,1,No,7094,0,Low,R1196,2,A109
+C1197,Dawn Powell,53,L397,2011-10-30,(148)990-3583x5414,Northern Mariana Islands,"Surveyor, quantity",Standard,Platinum,113248,281289,1,11311,4,68541,1,1,No,21012,0,High,R1197,3,A108
+C1198,Lindsay Christensen,54,L398,2017-03-09,038-807-7575x3145,Djibouti,"Engineer, manufacturing systems",Student,Bronze,134148,461222,4,6539,3,2534,0,0,No,48911,2,Low,R1198,2,A119
+C1199,Frederick Parrish,50,L399,2018-09-21,361-601-0282x8070,Puerto Rico,Geographical information systems officer,Student,Platinum,164684,244709,0,17992,4,92626,1,1,No,26714,0,Low,R1199,1,A103
+C1200,Mary Vasquez,42,L400,2021-04-26,001-984-573-2777x717,Micronesia,"Engineer, control and instrumentation",Standard,Silver,134533,463015,2,13061,4,45198,0,0,Yes,27448,0,Medium,R1200,2,A115
+C1201,Lawrence Kline,54,L401,2010-07-21,5334108869,Malta,Dentist,Standard,Bronze,71651,196331,1,6288,1,18225,1,0,No,27549,1,High,R1201,3,A106
+C1202,Shannon Bell,24,L402,2015-12-01,116.415.8815x273,Italy,Multimedia specialist,Standard,Platinum,156225,243486,1,4798,1,41682,0,0,Yes,43606,1,Medium,R1202,3,A117
+C1203,Jasmine Curry,36,L403,2011-10-14,675-622-9549,Tonga,Haematologist,Business,Silver,31645,85195,1,12900,1,98385,1,0,Yes,9010,2,Low,R1203,1,A109
+C1204,Lisa Mcknight,31,L404,2025-03-11,252-879-0746x520,Honduras,Corporate investment banker,Standard,Silver,166517,341105,0,13606,0,35949,1,1,No,49158,0,Medium,R1204,3,A100
+C1205,Benjamin Suarez,65,L405,2018-09-14,1737649476,Canada,Licensed conveyancer,Standard,Silver,33635,170950,3,4014,0,1494,1,1,Yes,12241,2,High,R1205,2,A107
+C1206,Eric Hall,72,L406,2011-06-24,689.077.4779x4249,Montserrat,Dealer,Standard,Gold,190611,409080,2,5610,2,59447,1,1,No,23363,0,Medium,R1206,1,A113
+C1207,Alexandra Hess,30,L407,2014-07-24,592.845.9836,Sierra Leone,Amenity horticulturist,Business,Bronze,45579,159806,4,16112,3,50785,1,0,Yes,6741,0,Medium,R1207,2,A101
+C1208,Ruth Willis,36,L408,2009-10-28,311.454.7380x040,Nicaragua,"Engineer, materials",Student,Gold,146315,83949,3,19672,4,72136,0,1,No,16382,0,Low,R1208,3,A117
+C1209,Paul Alvarado,20,L409,2006-08-26,864.035.3145,Panama,Interior and spatial designer,Standard,Gold,36497,368222,0,9390,1,84543,0,0,Yes,10413,1,Medium,R1209,2,A110
+C1210,Derek Martinez,63,L410,2007-02-13,063-811-1433,Costa Rica,Advertising account planner,Student,Silver,51255,261225,3,14622,0,31948,1,0,Yes,10413,0,Medium,R1210,3,A114
+C1211,James Fuller,58,L411,2020-01-15,+1-573-502-3619x955,Samoa,Community education officer,Standard,Silver,85970,226313,2,11679,4,7145,1,0,Yes,30016,0,Low,R1211,3,A115
+C1212,Brandon Williams,62,L412,2024-03-04,(005)774-7999,Malawi,"Investment banker, operational",Business,Gold,75136,26114,1,12387,4,60310,1,1,Yes,48571,1,Medium,R1212,1,A101
+C1213,Mark Baxter,70,L413,2017-03-23,572-576-0643,Guyana,Trading standards officer,Student,Silver,141487,25801,2,15433,3,20217,1,0,No,12800,0,High,R1213,3,A111
+C1214,Douglas Lawson,48,L414,2009-03-19,+1-513-851-0789,Belgium,"Radiographer, therapeutic",Standard,Platinum,30713,4351,0,4128,0,70060,0,0,Yes,42628,1,High,R1214,1,A107
+C1215,Teresa Taylor,78,L415,2020-01-14,001-560-553-7991,Dominica,Financial risk analyst,Student,Gold,192202,167279,4,9491,4,88635,0,1,No,32211,2,Low,R1215,3,A117
+C1216,Deborah Lowe,75,L416,2008-06-07,+1-582-053-1713x510,Jersey,Dentist,Business,Bronze,77566,88677,3,18349,0,8304,1,1,Yes,9701,2,Low,R1216,3,A119
+C1217,Nicole Ross,64,L417,2025-03-19,775-986-2971,Senegal,Hotel manager,Student,Gold,26355,279032,0,16900,0,7489,0,1,No,46094,1,Low,R1217,3,A102
+C1218,Rodney Edwards,62,L418,2017-01-08,812.832.0450x242,China,Commercial horticulturist,Premium,Platinum,31652,213670,1,15708,3,5831,1,1,Yes,21941,1,High,R1218,2,A117
+C1219,Victoria Rodriguez,37,L419,2013-10-08,(289)570-8979,Oman,Patent examiner,Standard,Gold,156119,499222,2,8214,1,21235,1,1,No,8499,1,Medium,R1219,1,A117
+C1220,Kathleen Santiago,18,L420,2008-02-05,(577)079-6365,Tonga,Petroleum engineer,Premium,Gold,133262,233601,1,7754,1,7250,0,0,No,36072,2,High,R1220,1,A105
+C1221,Cristian Mitchell,55,L421,2010-04-07,+1-857-587-6430,Colombia,Horticultural consultant,Student,Silver,46478,237927,1,19822,0,29161,0,0,No,44916,0,Low,R1221,3,A106
+C1222,Carol Chase,30,L422,2021-07-21,140-304-5214x979,Moldova,Housing manager/officer,Premium,Platinum,170245,42654,1,5207,2,70690,0,1,No,12045,2,High,R1222,1,A113
+C1223,Raymond Mcdonald,22,L423,2011-12-26,264.821.6081,United Arab Emirates,"Scientist, research (life sciences)",Business,Bronze,41413,97614,0,17632,0,85098,0,1,Yes,13862,2,Low,R1223,3,A114
+C1224,Amber Gordon DDS,73,L424,2015-07-10,(626)533-0141x1697,Eritrea,Associate Professor,Business,Silver,77122,151309,4,1972,0,38867,1,1,No,47362,0,Low,R1224,1,A117
+C1225,Carolyn Jones,62,L425,2009-02-09,+1-360-749-6349x37054,Papua New Guinea,Merchant navy officer,Student,Gold,34556,417031,4,2921,1,49718,0,0,Yes,24923,0,Low,R1225,2,A111
+C1226,Christopher Brown,45,L426,2006-11-13,382-389-1922x6323,Sri Lanka,Armed forces training and education officer,Standard,Silver,51295,146633,0,14913,1,43825,0,0,No,15406,0,Medium,R1226,3,A116
+C1227,Vincent Hamilton,79,L427,2013-01-08,569-372-9265x18073,South Georgia and the South Sandwich Islands,Firefighter,Standard,Silver,90114,219214,2,18338,3,13810,0,1,No,41493,1,Low,R1227,3,A113
+C1228,Bradley Koch,46,L428,2012-04-30,001-886-921-4947x82031,United States Virgin Islands,"Designer, multimedia",Standard,Platinum,194290,291569,1,17727,0,72881,1,1,Yes,33028,1,High,R1228,1,A117
+C1229,Henry Tran,19,L429,2017-06-10,1378475418,Zambia,Research scientist (life sciences),Standard,Platinum,199591,99114,4,6297,1,37324,0,0,No,5839,0,High,R1229,2,A107
+C1230,Michael Mack,59,L430,2015-01-31,130-111-6465x200,South Georgia and the South Sandwich Islands,Camera operator,Business,Platinum,98658,4107,4,17383,4,95430,1,1,No,25964,1,Low,R1230,2,A116
+C1231,Timothy Stokes,78,L431,2013-07-24,491.512.8733x374,Guinea-Bissau,Forest/woodland manager,Student,Silver,41018,100128,3,16695,4,32371,0,0,No,8328,0,Medium,R1231,1,A105
+C1232,Tyler Carter,45,L432,2016-08-26,(241)624-8406,Gibraltar,Ergonomist,Business,Bronze,43598,251020,0,3056,2,9884,1,1,No,10435,1,High,R1232,1,A109
+C1233,Amy Doyle,32,L433,2012-12-20,808.434.4952,Qatar,Mental health nurse,Standard,Gold,180665,305734,4,9074,2,3871,1,0,Yes,3391,0,Low,R1233,3,A116
+C1234,David Rojas,27,L434,2025-08-12,(051)514-8503x568,Slovakia (Slovak Republic),Fish farm manager,Business,Silver,119699,160932,1,2506,2,84003,0,1,No,47349,0,Medium,R1234,3,A110
+C1235,Michael Patterson,30,L435,2022-05-18,(844)975-7974x602,Iceland,"Therapist, art",Premium,Gold,96185,69138,2,8595,1,1673,0,1,No,44207,0,Medium,R1235,2,A106
+C1236,Lisa Welch,30,L436,2014-12-04,088.646.6804x198,Korea,"Teacher, secondary school",Student,Silver,79602,358075,0,6219,1,31515,1,0,No,16170,1,Low,R1236,2,A104
+C1237,Jessica Chang,23,L437,2025-01-14,445.179.1734x4516,Congo,"Engineer, land",Premium,Silver,138089,334904,0,1306,4,28182,1,1,Yes,12328,2,Low,R1237,3,A110
+C1238,Amy Aguirre,69,L438,2013-09-28,201-113-9142x4024,Antarctica (the territory South of 60 deg S),Product manager,Standard,Silver,141972,280590,4,4054,1,1105,0,0,No,38398,2,Low,R1238,2,A114
+C1239,Samuel Carpenter,78,L439,2022-05-22,(641)463-7602,Burkina Faso,Manufacturing engineer,Premium,Gold,132274,468562,2,5202,4,33709,0,1,No,21992,2,Low,R1239,3,A103
+C1240,Andre Brooks,33,L440,2006-02-01,175-104-4565x490,Sri Lanka,Production engineer,Standard,Bronze,138799,373540,2,13396,4,3239,0,1,Yes,13612,2,Low,R1240,1,A108
+C1241,Thomas Smith,56,L441,2011-11-05,615.825.4563,Finland,Landscape architect,Business,Platinum,87527,242052,3,13956,0,35704,1,0,No,13730,0,Low,R1241,3,A105
+C1242,Nina Vargas,37,L442,2008-08-22,001-099-347-2676x246,Burkina Faso,Public affairs consultant,Business,Bronze,115836,219429,0,17156,2,52674,0,1,No,21068,2,Low,R1242,3,A119
+C1243,Sophia Brown,27,L443,2011-09-01,001-774-646-1214,Mali,Tourist information centre manager,Business,Platinum,175651,253309,1,2908,1,75094,0,0,No,44760,2,High,R1243,2,A100
+C1244,Beth Moore,24,L444,2019-06-12,800.307.4095x322,Svalbard & Jan Mayen Islands,Sales promotion account executive,Standard,Gold,109582,437979,2,18959,2,33572,1,1,Yes,14843,1,Low,R1244,3,A108
+C1245,Leslie Young,67,L445,2018-06-23,001-826-226-8242x94034,Azerbaijan,IT trainer,Standard,Gold,110774,80061,4,15108,1,17839,0,1,No,15061,1,Medium,R1245,3,A109
+C1246,Nicholas Beltran,69,L446,2024-01-04,635.190.4906,United Arab Emirates,Prison officer,Premium,Gold,195104,150047,0,1251,0,87417,1,0,No,42340,2,High,R1246,3,A110
+C1247,Dr. Maria Alexander,55,L447,2021-06-27,787-857-7217,Guyana,"Therapist, sports",Premium,Bronze,96752,251018,1,9703,4,96548,0,1,Yes,39384,0,High,R1247,1,A112
+C1248,Ryan Gonzalez,47,L448,2023-08-19,938-302-0269x12276,Paraguay,Technical brewer,Student,Bronze,171639,228050,4,18156,3,1488,1,1,No,34845,1,High,R1248,1,A107
+C1249,Roberto Barrett,71,L449,2022-04-14,9432218036,Malawi,Insurance broker,Premium,Silver,25980,254509,1,12307,0,83413,0,1,Yes,6612,0,Medium,R1249,2,A114
+C1250,Jared Erickson,60,L450,2007-01-30,(184)673-7991,Algeria,Optometrist,Business,Silver,110432,406996,3,3560,2,85208,0,0,No,34878,2,High,R1250,3,A104
+C1251,Dr. Christina Powell,62,L451,2016-12-14,(760)532-1165x32297,Comoros,Air traffic controller,Premium,Gold,134563,71456,2,2179,1,3259,1,1,No,12477,2,Medium,R1251,1,A111
+C1252,Benjamin Bradford,65,L452,2016-08-15,159-960-3839,Guam,Hydrographic surveyor,Standard,Gold,170069,408478,1,17875,0,19264,0,1,Yes,16665,2,Low,R1252,3,A110
+C1253,Jeremiah Miranda,68,L453,2024-03-01,001-681-331-8093x51726,Bosnia and Herzegovina,"Solicitor, Scotland",Business,Silver,50023,181590,3,11898,4,3570,1,0,Yes,27166,0,Medium,R1253,1,A101
+C1254,Alexander Lewis,54,L454,2020-12-12,497-121-4455x994,Comoros,"Therapist, drama",Premium,Bronze,105593,182268,2,7050,4,65536,0,0,No,15838,2,Low,R1254,2,A118
+C1255,Tanya Parsons,24,L455,2010-06-27,001-803-474-5724x84803,Belarus,Insurance underwriter,Premium,Bronze,54173,225661,3,12939,1,98340,1,1,Yes,37651,0,Medium,R1255,1,A110
+C1256,Dana Coleman,36,L456,2010-03-13,001-523-129-7684x3638,Slovakia (Slovak Republic),"Pilot, airline",Premium,Silver,44063,376835,2,3132,1,29873,0,0,No,47880,0,Medium,R1256,1,A118
+C1257,Cindy Perry,60,L457,2007-07-09,372.397.2786,Namibia,"Engineer, civil (contracting)",Student,Silver,57953,443053,0,1081,1,82096,1,0,No,22345,2,Medium,R1257,3,A119
+C1258,Timothy Frost,32,L458,2011-04-22,(095)192-7534x40459,Jersey,Hydrologist,Premium,Bronze,160366,282821,4,4902,4,80965,0,1,No,34702,2,High,R1258,2,A106
+C1259,Anthony Noble,20,L459,2016-02-02,(848)589-9609x05452,Malaysia,"Scientist, biomedical",Student,Silver,157423,329275,0,15500,1,50252,0,1,Yes,29007,1,Medium,R1259,1,A111
+C1260,Brandon Klein,23,L460,2019-08-18,+1-526-412-6037x104,Burkina Faso,Computer games developer,Student,Platinum,85514,145921,0,17551,3,18938,0,1,Yes,21033,0,Low,R1260,3,A117
+C1261,Thomas Walker,72,L461,2022-08-01,(152)881-9073x2122,Reunion,Primary school teacher,Standard,Bronze,81223,438537,1,10780,2,98342,0,0,Yes,41542,2,Low,R1261,1,A111
+C1262,James Coleman,35,L462,2015-12-24,+1-861-143-8413x84901,Kiribati,"Therapist, horticultural",Standard,Gold,78350,98148,3,2824,2,90566,0,1,No,48732,2,Low,R1262,3,A108
+C1263,Michelle Webb,28,L463,2011-10-17,9949904783,Bahamas,Research scientist (maths),Business,Platinum,147397,103445,4,6852,4,42102,0,0,No,43316,2,Medium,R1263,3,A116
+C1264,Amanda Cruz,38,L464,2025-03-25,001-782-533-2462,Finland,Engineering geologist,Premium,Platinum,65894,256509,2,15679,1,77283,1,1,No,30417,0,High,R1264,1,A106
+C1265,Nancy Farmer,67,L465,2024-09-19,(538)054-6630,Papua New Guinea,Community pharmacist,Student,Bronze,177909,108694,2,19624,1,52479,0,1,Yes,44194,1,Low,R1265,1,A101
+C1266,Steven Leach,44,L466,2013-06-11,471.618.1573x172,Solomon Islands,Civil Service fast streamer,Business,Bronze,60385,410780,1,12638,1,17735,0,1,Yes,34524,0,High,R1266,2,A101
+C1267,Cameron Smith,30,L467,2019-01-04,167.059.0284x931,Solomon Islands,Brewing technologist,Premium,Bronze,80455,11242,2,18292,3,40988,1,1,No,23076,0,High,R1267,1,A108
+C1268,Gregory Mccann,37,L468,2019-12-19,497.421.8150,Togo,Proofreader,Standard,Platinum,116086,123425,1,7742,3,29202,0,0,No,39982,0,High,R1268,3,A100
+C1269,Lisa Gray DDS,34,L469,2011-01-27,(288)611-8089,Luxembourg,Geophysicist/field seismologist,Student,Gold,96024,438769,0,6697,0,97617,0,0,No,22006,0,High,R1269,1,A116
+C1270,Connie Irwin,49,L470,2006-01-26,628.907.1022x079,Guam,Chartered certified accountant,Student,Platinum,28311,424946,0,15032,0,17085,0,1,No,13427,2,Low,R1270,1,A111
+C1271,Patrick Perry,56,L471,2010-08-21,680-192-0850,Taiwan,Product manager,Student,Silver,108684,105798,3,13750,1,87850,0,0,Yes,33899,0,Low,R1271,3,A115
+C1272,Gabrielle Villegas,62,L472,2010-07-19,751.787.1146,Qatar,"Research officer, political party",Premium,Silver,192564,143568,4,17611,2,30638,1,1,No,40753,1,High,R1272,3,A119
+C1273,Katie Baker,51,L473,2020-08-13,(677)469-3239,Grenada,"Engineer, aeronautical",Business,Gold,63952,328013,2,10837,3,67196,0,1,No,42172,2,Medium,R1273,3,A105
+C1274,Rita Anthony,55,L474,2008-03-10,551-016-1459,Zambia,Horticultural consultant,Student,Gold,152187,442772,1,14295,2,14851,0,1,No,31568,0,Medium,R1274,3,A114
+C1275,Wanda Ali,36,L475,2020-12-29,(547)245-0467,Sao Tome and Principe,"Psychologist, sport and exercise",Standard,Platinum,169711,300827,2,2343,4,19496,1,0,Yes,10695,2,High,R1275,3,A115
+C1276,Audrey Howard,34,L476,2016-02-20,022-645-2848x043,Vanuatu,Ambulance person,Premium,Bronze,174780,450653,2,12386,2,65431,0,1,Yes,18142,0,High,R1276,1,A119
+C1277,Kayla Jenkins,49,L477,2025-01-25,956-883-0150x33540,Yemen,Architect,Business,Silver,198505,294371,1,3990,3,94736,1,1,Yes,27403,0,Low,R1277,2,A115
+C1278,Rachel Soto,34,L478,2017-08-15,327-450-1018,Fiji,Medical secretary,Premium,Silver,132143,375339,4,11798,0,89255,1,1,Yes,35087,2,Low,R1278,1,A105
+C1279,Cheryl Young,20,L479,2013-11-28,+1-770-447-4386x2357,Guernsey,Government social research officer,Standard,Platinum,126905,320943,1,16545,0,74704,0,1,Yes,5475,0,High,R1279,3,A108
+C1280,Cassidy Osborne,33,L480,2012-09-25,+1-739-522-4147x64240,San Marino,"Scientist, research (physical sciences)",Student,Silver,52060,150466,0,8433,3,5328,1,1,No,6071,0,Medium,R1280,1,A116
+C1281,Kyle Ingram,63,L481,2007-09-03,+1-759-949-6814x8226,Congo,Senior tax professional/tax inspector,Business,Bronze,128246,355294,4,16003,0,94122,1,1,Yes,33766,0,Low,R1281,3,A102
+C1282,Charles Dickson PhD,48,L482,2015-02-03,474.928.5259x627,Guernsey,Television/film/video producer,Premium,Platinum,156822,454768,0,14198,3,4961,1,1,Yes,23167,1,Low,R1282,3,A102
+C1283,Angie Parker,26,L483,2017-12-13,(500)490-2780x33331,Mauritania,Advertising copywriter,Business,Silver,166018,367992,2,10380,4,11362,1,1,No,22361,2,High,R1283,2,A116
+C1284,Jeffrey Pearson,40,L484,2022-06-16,(713)457-1487x766,Botswana,Quantity surveyor,Standard,Silver,118262,400192,1,4197,0,6509,0,0,No,41384,2,Medium,R1284,3,A105
+C1285,Ronald Swanson,78,L485,2023-05-24,900.262.4700x41226,Guatemala,Ecologist,Standard,Platinum,69309,282527,2,15440,2,52954,1,1,No,31620,1,High,R1285,2,A106
+C1286,Nancy Henson,66,L486,2024-08-14,+1-154-942-0437x636,Congo,Information officer,Student,Gold,112037,141311,4,19642,4,2979,0,1,Yes,2112,1,Low,R1286,2,A111
+C1287,Todd Mcintyre,30,L487,2024-12-06,(463)321-7583,American Samoa,Youth worker,Business,Platinum,189158,183908,2,4218,2,63731,0,1,Yes,44173,1,Low,R1287,2,A103
+C1288,Donald Wise,74,L488,2022-07-13,001-841-605-3277x22745,United States Minor Outlying Islands,Art gallery manager,Student,Bronze,130847,442624,4,12857,0,73140,0,1,Yes,6883,2,Low,R1288,3,A106
+C1289,Elizabeth Rubio,36,L489,2011-06-23,001-385-649-1916x91074,Ethiopia,Environmental manager,Standard,Silver,150708,288174,3,10122,3,70249,1,1,No,18137,2,High,R1289,2,A115
+C1290,Elizabeth Smith,75,L490,2019-07-28,736.269.6378x349,Macao,Restaurant manager,Premium,Silver,162492,213007,0,13766,2,98031,0,1,Yes,4337,1,Low,R1290,3,A101
+C1291,Joseph Vaughan,40,L491,2008-08-01,258-052-8164,Seychelles,Best boy,Business,Bronze,67021,310298,1,13741,2,56489,0,1,Yes,2172,1,Medium,R1291,2,A111
+C1292,Colton Liu,23,L492,2011-04-24,116.626.2794x159,Burkina Faso,Advertising account executive,Business,Bronze,91456,137704,1,10901,1,76297,1,1,Yes,38112,1,High,R1292,3,A117
+C1293,Kirk Meyer,38,L493,2013-11-21,+1-097-410-0584,Ireland,Museum/gallery exhibitions officer,Business,Platinum,60165,382571,0,13451,3,54919,1,0,No,24442,2,Medium,R1293,3,A107
+C1294,Megan Jones,72,L494,2009-01-10,941.222.1806x8650,Zambia,Landscape architect,Business,Gold,31792,138674,3,7004,4,19603,0,1,No,10599,2,High,R1294,3,A111
+C1295,Jennifer Rodgers,27,L495,2011-12-08,6869795403,Tokelau,Farm manager,Premium,Silver,144907,280387,3,3115,1,85317,0,0,No,35170,2,Medium,R1295,1,A101
+C1296,Aaron Wallace,75,L496,2018-03-30,929.150.5645x530,Yemen,"Engineer, technical sales",Premium,Platinum,81452,130883,4,12080,4,2953,0,1,No,14988,0,High,R1296,2,A117
+C1297,Emily Beck,40,L497,2015-03-30,174-160-1038x831,Bhutan,Press sub,Standard,Platinum,159364,347810,1,387,0,96699,1,1,No,11879,1,Medium,R1297,1,A111
+C1298,Brandy Rhodes,48,L498,2017-03-12,965-898-9798x464,Burundi,Data processing manager,Premium,Platinum,39036,126980,3,15049,3,2695,0,1,No,10793,2,Medium,R1298,3,A115
+C1299,Samuel Chung,70,L499,2015-08-02,611.040.8191x53531,Mozambique,Tax adviser,Student,Silver,52477,221661,3,4981,3,40723,0,1,No,11313,1,Medium,R1299,2,A105
